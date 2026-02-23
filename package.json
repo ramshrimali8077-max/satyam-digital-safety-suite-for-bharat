@@ -1,5 +1,5 @@
 {
-  "name": "satyam---digital-safety-suite-for-bharat",
+  "name": "copy-of-satyam---truth-for-bharat",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,8 @@
   "dependencies": {
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "@google/genai": "^1.40.0"
+    "@google/genai": "^1.40.0",
+    "lucide-react": "0.460.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
